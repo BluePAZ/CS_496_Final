@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EncryptedChat</string>
+    <string name="action_settings">Settings</string>
+    <string name="regKey">My Key Here</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_blank">Blank</string>
+    <string name="title_activity_criminal_posse_list">CriminalPosseList</string>
+    <string name="title_activity_illegal_dealings_view">IllegalDealingsView</string>
+    <string name="title_activity_illegal_dealing">IllegalDealing</string>
+
+</resources>
